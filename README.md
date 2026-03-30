@@ -1,4 +1,5 @@
 # timelog-app
+<br>v1.0<br>
 Timer app in python includes project planning and status of work updates. You can plan projects to do. You can track time spent on each project. You can track work done on those projects.<br>
 <br>No setup required. Just download the release and unzip. Then follow the working below.<br>
 <br>DISCLAIMER! this version does not save the time you spent working. So when time runs out and notification received, please log the progress of your work. Then set the timer with a new time limit.<br>
